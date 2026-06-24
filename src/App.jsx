@@ -77,10 +77,10 @@ function App() {
               <img src="/IMG_20220916_225049_101.webp" alt="Memory 2" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
             </div>
             <div className="photo-placeholder" style={{ padding: 0, overflow: 'hidden' }}>
-              <img src="/images/86af24cd-3da0-4588-a563-2c5ac2406c63.jpg" alt="Memory 3" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+              <img src="/86af24cd-3da0-4588-a563-2c5ac2406c63.jpg" alt="Memory 3" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
             </div>
             <div className="photo-placeholder" style={{ padding: 0, overflow: 'hidden' }}>
-              <img src="/images/photo_6143141837607210896_y.jpg" alt="Memory 4" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+              <img src="/photo_6143141837607210896_y.jpg" alt="Memory 4" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
             </div>
           </div>
         </motion.div>
